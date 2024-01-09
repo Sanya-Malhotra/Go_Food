@@ -38,6 +38,7 @@ function App() {
         <img
           src="https://media.geeksforgeeks.org/wp-content/uploads/20200805182753/20200805182639.gif"
           alt="Loading..."
+        
         />
          <h1 style={{
       fontFamily: 'Arial Black, sans-serif',
